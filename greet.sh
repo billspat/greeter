@@ -1,4 +1,4 @@
-DATE /T
+date
 
 echo "hello, $USER"
 
