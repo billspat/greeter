@@ -1,4 +1,4 @@
 date -u
 
-echo "hello, $USER"
+echo "Hello, $USER"
 
